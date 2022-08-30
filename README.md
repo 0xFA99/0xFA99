@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    「 I'm just an average player 」
+  </samp>
+</p>
 
-<!--
-**0xFA99/0xFA99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2></h2><br>
 
-Here are some ideas to get you started:
+```sh
+curl -sL https://github.com/0xFA99.gpg | gpg --import
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```console
+998A 8F5B 7F7E 3A19 BD0C CD2F 00F9 1CE6 ABA0 ED44
+```
