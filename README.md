@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;૮&nbsp;&nbsp;>&nbsp;&nbsp;<)&nbsp;&nbsp;&nbsp;&nbsp;(˚ˎ&nbsp;。7&nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;⁻&nbsp;&nbsp;៸|&nbsp;&nbsp;&nbsp;&nbsp;|、˜〵&nbsp;<br>
 乀(ˍ, ل&nbsp;ل&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;じしˍ,)ノ<br>
-  [me]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[her]
+  [ me ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ her ]
 </p>
 
 <h2></h2><br>
